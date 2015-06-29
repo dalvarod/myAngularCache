@@ -6,7 +6,7 @@
             var cacheObj = {};
             cacheObj.cacheItem = {}
             cacheObj.debug = false;
-            cacheObj.default_cache_time = default_cache_time; // en segundos.
+            cacheObj.default_cache_time = 100000; // Default cache time in Seconds.
 
             cacheObj.debugger = function (data) {
                 if (cacheObj.debug) {

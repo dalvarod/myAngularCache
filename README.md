@@ -10,7 +10,7 @@ Use  *myCacheFactory.createCache (cachId, CacheContent, cacheTime)* to create a 
 
 ##### 2. Check myAngularCache item.
 
-Use  *myCacheFactory.checkCache (cacheId)* to check the avaialbility of a created cache item. It checks the cache time.
+Use  *myCacheFactory.checkCache (cacheId)* to check the availability of a created cache item. It checks the cache time and destroys the cached item if expire time is reached.
 
 ##### 3. Get myAngularCache item content.
 

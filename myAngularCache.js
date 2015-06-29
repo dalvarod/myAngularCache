@@ -4,7 +4,7 @@
  * Version: 0.1.0 - 2015-06-20
  * License: MIT
  *
- * Manage cache far beyond $factoryCache
+ * Manage cache in angular far beyond $factoryCache
  * This factory allows to set expire times for every created cache.
  * Use myCacheFactory.createCache (cachId, CacheContent, cacheTime) to create a cache item with an expiration time.
  * Use myCacheFactory.checkCache (cacheId) to check the avaialbility of a created cache item. It checks the cache time.

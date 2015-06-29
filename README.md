@@ -1,6 +1,6 @@
 # myAngularCache
 
-## Manage cache far beyond $factoryCache
+## Manage cache far beyond angular $cacheFactory
 
 This factory allows to set expire times for every created cache.
 

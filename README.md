@@ -14,7 +14,7 @@ Use  *myCacheFactory.checkCache (cacheId)* to check the avaialbility of a create
 
 ##### Get myAngularCache item content
 
-Use  *myCacheFactory.getCachedContent (cacheId)* to get the content og a cache item. 
+Use  *myCacheFactory.getCachedContent (cacheId)* to get the content of a cached item. 
 
 ##### Get myAngularCache item content or execute callback
 

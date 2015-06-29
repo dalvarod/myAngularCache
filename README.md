@@ -1,4 +1,4 @@
-# myangularCache
+# myAngularCache
 
 ## Manage cache far beyond $factoryCache
 

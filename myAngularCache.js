@@ -16,7 +16,7 @@
 
     angular.module('myAngularCache', [])
 
-        .factory('myCacheFactory', function ($cacheFactory, default_cache_time) {
+        .factory('myCacheFactory', function ($cacheFactory) {
             var cacheObj = {};
             cacheObj.cacheItem = {}
             cacheObj.debug = false;

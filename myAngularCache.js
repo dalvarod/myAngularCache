@@ -62,7 +62,6 @@
                         cacheObj.cacheItem.destroy();
                         cacheObj.cacheItem = undefined;
                     }
-                    // existe cache
                     else {
                         cacheObj.debugger("Cache found: " + cacheId);
                         cached = true;
